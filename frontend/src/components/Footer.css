@@ -1,0 +1,21 @@
+.footer {
+  background: linear-gradient(to right, #2e7d32, #66bb6a);
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  margin-top: 10px;
+}
+
+.footer-title {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.footer-tagline p {
+  font-family: "Mulish", sans-serif;
+  font-size: 0.95rem;
+  margin: 1px 0;
+  color: #f1f1f1;
+}

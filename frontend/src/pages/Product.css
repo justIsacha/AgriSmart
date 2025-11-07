@@ -1,0 +1,41 @@
+/* Products.css - Basic marketplace styling */
+
+.products-page {
+  background-color: #f6fdf6;
+  padding: 2rem;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  color: #166534;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.subtitle {
+  text-align: center;
+  color: #4b5563;
+  margin-bottom: 2rem;
+}
+
+.loading,
+.no-products {
+  text-align: center;
+  color: #9ca3af;
+  font-style: italic;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.products-count {
+  text-align: right;
+  color: #065f46;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}

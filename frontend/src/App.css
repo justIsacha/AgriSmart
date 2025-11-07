@@ -1,0 +1,12 @@
+/* Basic global styles for your app */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #2e7d32;
+  text-align: center;
+  margin-top: 20px;
+}
